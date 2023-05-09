@@ -1,0 +1,226 @@
+{
+    "current_profile": "default",
+    "profiles": {
+        "default": {
+            "AutoLoot": {
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "Investigate": true,
+                "Leyline": true,
+                "Others": true,
+                "QuestInteract": true
+            },
+            "AutoTalk": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "TimeSpeedup": 50.0
+            },
+            "ChestTeleport": {
+                "Key": 5
+            },
+            "ESP": {
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Puzzle": {
+                        "Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Torch Puzzle": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 25,
+                "GlobalBoxColor": {
+                    "toggled": true,
+                    "value": 4278190335
+                },
+                "GlobalLineColor": {
+                    "toggled": true,
+                    "value": 4278190333
+                },
+                "Range": 200.0
+            },
+            "GameSpeed": {
+                "Hotkey": 34,
+                "Speed": 20.0
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "InfoWindow": {
+                    "InfoMove": false,
+                    "InfoShow": false
+                },
+                "Notify": {
+                    "NotificationsShow": false
+                },
+                "SelectedModule": 2,
+                "StatusWindow": {
+                    "StatusMove": false,
+                    "StatusShow": false
+                }
+            },
+            "GodMode": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "InteractiveMap": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "ShowHDIcons": true
+            },
+            "KillAura": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "InstantDeathMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "OnlyTargeted": false,
+                "Range": 30.0
+            },
+            "MobVacuum": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Instantly": true,
+                "OnlyTarget": false,
+                "Radius": 20.799999237060547
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": 220
+                },
+                "Speed": 24.700000762939453
+            },
+            "OculiTeleport": {
+                "Key": 6
+            },
+            "QuestTeleport": {
+                "Key": 33,
+                "QuestTP": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MobDropRadius": 39.29999923706055,
+                "Radius": 56.400001525878906
+            },
+            "Visuals": {
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "NoFog": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "WaitDelayInit": {
+                "InitializationDelay": 10000
+            }
+        },
+        "InteractiveMap": {
+            "LastUserID": 630576674
+        }
+    }
+}
